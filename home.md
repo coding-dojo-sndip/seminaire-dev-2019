@@ -1,18 +1,19 @@
 ## Dates
 
-Les 6 et 7 juin à [Montrouge](https://www.agora.insee.fr/cms/sites/agora/home/services/DG/white--fairway/acces-aux-batiments-white-et-fairway.html)
+Les 6 et 7 juin 2019 à [Montrouge](https://www.agora.insee.fr/cms/sites/agora/home/services/DG/white--fairway/acces-aux-batiments-white-et-fairway.html)
+
+## Salle
+Le séminaire se déroulera salles Closon/Malinvaud au rez-de-chaussée du bâtiment.
+Le numéro de pont pour suivre les présentations en visioconférence est le XXXXX.
+
 
 ## Liste des sujets
 Cette année, le séminaire des développeurs portera sur 3 axes : 
 * Java et Javascript 
-* Comment mieux travailler ensemble
+* Mieux travailler ensemble
 * La qualité du développement
 
-Après une première phase de recueil des propositions, [les votes sont lancés !](http://php.insee.fr/enq-interne/index.php?sid=45186&lang=fr).
-
-## Salle
-Le séminaire se déroulera salles Closon/Malinvaud.
-Le numéro de pont pour suivre les présentations en visioconférence est le XXXXX.
+Après une première phase de recueil des propositions, [les votes sont lancés !](http://php.insee.fr/enq-interne/index.php?sid=45186&lang=fr)
 
 ## Programme
 **Jour 1**
