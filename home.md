@@ -5,7 +5,7 @@ Les 6 et 7 juin à Montrouge
 ## Liste des sujets
 
 ## Salle
-
+[Comment venir au White](https://www.agora.insee.fr/cms/sites/agora/home/services/DG/white--fairway/acces-aux-batiments-white-et-fairway.html)
 ## Programme
 
 ## Restaurant
