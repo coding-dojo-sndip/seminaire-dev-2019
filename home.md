@@ -3,7 +3,12 @@
 Les 6 et 7 juin à Montrouge
 
 ## Liste des sujets
-[Les votes sont lancés !](http://php.insee.fr/enq-interne/index.php?sid=45186&lang=fr)
+Cette année, le séminaire des développeurs portera sur 3 axes : 
+* Java et Javascript 
+* Comment mieux travailler ensemble
+* La qualité du développement
+
+Après une première phase de recueil des propositions, [les votes sont lancés !](http://php.insee.fr/enq-interne/index.php?sid=45186&lang=fr).
 
 ## Salle
 [Comment venir au White](https://www.agora.insee.fr/cms/sites/agora/home/services/DG/white--fairway/acces-aux-batiments-white-et-fairway.html)
