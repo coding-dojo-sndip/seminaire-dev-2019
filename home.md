@@ -23,5 +23,5 @@ Affiche du séminaire
 [Liste des hôtels et apparthôtels en accord tarifaire avec l'Insee](https://www.agora.insee.fr/files/live/sites/agora/files/shared/agora/DG/Procedures/Hotels%20et%20residhome%20INSEE%202019.pdf)
 
 ## Restaurant
-![Le_Tipaza__Restaurant__Malakoff_-_Google_Chrome](uploads/be08479aaafe4c2882dcc33c02655bb1/Le_Tipaza__Restaurant__Malakoff_-_Google_Chrome.jpg)
+![Le_Tipaza__Restaurant__Malakoff_-_Google_Chrome](uploads/57d7381da1d729c3eecc81bee9a025d5/Le_Tipaza__Restaurant__Malakoff_-_Google_Chrome.jpg)
 
