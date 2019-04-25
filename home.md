@@ -19,9 +19,9 @@ Après une première phase de recueil des propositions, [les votes sont lancés 
 Affiche du séminaire 
 + détail
 
-## Restaurant
-![Le_Tipaza__Restaurant__Malakoff_-_Google_Chrome](uploads/be08479aaafe4c2882dcc33c02655bb1/Le_Tipaza__Restaurant__Malakoff_-_Google_Chrome.jpg)
-![Le_Tipaza__Restaurant__Malakoff_-_Google_Chrome3](uploads/37c525d71d8535909af4628debac346f/Le_Tipaza__Restaurant__Malakoff_-_Google_Chrome3.jpg)
-![Le_Tipaza__Restaurant__Malakoff_-_Google_Chrome2](uploads/448c1843a465301ed33446be9c2761a2/Le_Tipaza__Restaurant__Malakoff_-_Google_Chrome2.jpg)
 ## Hôtels
 [Liste des hôtels et apparthôtels en accord tarifaire avec l'Insee](https://www.agora.insee.fr/files/live/sites/agora/files/shared/agora/DG/Procedures/Hotels%20et%20residhome%20INSEE%202019.pdf)
+
+## Restaurant
+![Le_Tipaza__Restaurant__Malakoff_-_Google_Chrome](uploads/be08479aaafe4c2882dcc33c02655bb1/Le_Tipaza__Restaurant__Malakoff_-_Google_Chrome.jpg)
+
