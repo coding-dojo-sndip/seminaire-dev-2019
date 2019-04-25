@@ -16,44 +16,12 @@ Cette année, le séminaire des développeurs portera sur 3 axes :
 Après une première phase de recueil des propositions, [les votes sont lancés !](http://php.insee.fr/enq-interne/index.php?sid=45186&lang=fr)
 
 ## Programme
-**Jour 1**
-
-| Plage Horaire | Présentation |
-| ------ | ------ |
-| 9h-10h | Accueil café|
-| 10h-10h30 | Prez1 | 
-| 10h30-11h | Prez2 |
-| 11h-11h30 | Prez3 |
-| 11h30-12h | Prez4 |
-| 12h-13h30 | Pause Déjeuner |
-| 13h30-14h | Prez5 |
-| 14h-14h30 | Prez6 |
-| 14h30-15h | Prez7 |
-| 15h-14h30 | Pause café |
-| 15h30-16h | Prez8 |
-| 16h-16h30 | Prez10 |
-| 16h30-17h | Prez11 |
-
-**Jour 2**
-
-| Plage Horaire | header |
-| ------ | ------ |
-| 9h30-10h | Prez1|
-| 10h-10h30 | Prez2 | 
-| 10h30-11h | Prez3 |
-| 11h-11h30 | Prez4 |
-| 11h30-12h | Prez5 |
-| 12h-13h30 | Pause Déjeuner |
-| 13h30-14h | Prez6 |
-| 14h-14h30 | Prez7 |
-| 14h30-15h | Prez8 |
-| 15h-15h30 | Pause café |
-| 15h30-16h | Prez9 |
-| 16h-16h30 | Prez10 |
-| 16h30-17h | Clôture |
-
+Affiche du séminaire 
++ détail
 
 ## Restaurant
-
+![Le_Tipaza__Restaurant__Malakoff_-_Google_Chrome](uploads/be08479aaafe4c2882dcc33c02655bb1/Le_Tipaza__Restaurant__Malakoff_-_Google_Chrome.jpg)
+![Le_Tipaza__Restaurant__Malakoff_-_Google_Chrome3](uploads/37c525d71d8535909af4628debac346f/Le_Tipaza__Restaurant__Malakoff_-_Google_Chrome3.jpg)
+![Le_Tipaza__Restaurant__Malakoff_-_Google_Chrome2](uploads/448c1843a465301ed33446be9c2761a2/Le_Tipaza__Restaurant__Malakoff_-_Google_Chrome2.jpg)
 ## Hôtels
 [Liste des hôtels et apparthôtels en accord tarifaire avec l'Insee](https://www.agora.insee.fr/files/live/sites/agora/files/shared/agora/DG/Procedures/Hotels%20et%20residhome%20INSEE%202019.pdf)
