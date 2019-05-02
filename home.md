@@ -8,7 +8,7 @@ Les 6 et 7 juin 2019 à [Montrouge](https://www.agora.insee.fr/cms/sites/agora/h
 ## Liste des sujets
 Cette année, le séminaire des développeurs portera sur 3 axes :
 
-* La qualité du développement
+* **La qualité du développement**
 1.  L'outil PIDILA (Une checklist unique regroupant les critères des différents référentiels et bonnes pratiques du web)
 1.  PLIC Jenkins2 en production mise en œuvre du déploiement continu sur l'application Web4G
 1.  Selenium vs Cypress : la battle des outils qui testent vos IHM
@@ -18,7 +18,7 @@ Cette année, le séminaire des développeurs portera sur 3 axes :
 1.  Homologations : - une approche par service avec notamment une volonté d'aller vers de la qualification de service (par exemple le SEF ou Keycloak).
 
 
-* Mieux travailler ensemble
+* **Mieux travailler ensemble**
 1.  Valeur ajoutée de la DAAP et de la DSMR dans le cadre de la conception ou la modification de l'architecture d'une application
 1.  Sécurisation d'un processus de production (LEI ?) ; présentation à deux voix de l'offre de service de supervision
 1.  Quelle prise en compte de la supervision et de la gestion des incidents dans les processus et notamment au démarrage d'un projet ?
@@ -26,7 +26,7 @@ Cette année, le séminaire des développeurs portera sur 3 axes :
 1.  Emagsa 3 : Retour d'expérience sur une application R en production.
 
 
-* Sujets divers en lien avec le SDSI
+* **Sujets divers en lien avec le SDSI**
 1. Nouvelles applications mobiles : une Progressive Web App dans la tablette des enquêteurs Prix
 1. Offre de services autour des annuaires et des dispositifs d'authentification (DAAP/DOT).
 1. Une présentation du SEF
