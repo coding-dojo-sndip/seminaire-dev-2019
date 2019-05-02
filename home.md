@@ -1,3 +1,6 @@
++ Présentation sommaire du séminaire
+
+
 ## Dates
 
 Les 6 et 7 juin 2019 à [Montrouge](https://www.agora.insee.fr/cms/sites/agora/home/services/DG/white--fairway/acces-aux-batiments-white-et-fairway.html)
