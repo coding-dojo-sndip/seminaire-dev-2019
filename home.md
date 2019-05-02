@@ -2,11 +2,6 @@
 
 Les 6 et 7 juin 2019 à [Montrouge](https://www.agora.insee.fr/cms/sites/agora/home/services/DG/white--fairway/acces-aux-batiments-white-et-fairway.html)
 
-## Salle
-Le séminaire se déroulera salles Closon/Malinvaud au rez-de-chaussée du bâtiment.
-Le numéro de pont pour suivre les présentations en visioconférence est le XXXXX.
-
-
 ## Liste des sujets
 Cette année, le séminaire des développeurs portera sur 3 axes :
 
@@ -44,9 +39,19 @@ Cette année, le séminaire des développeurs portera sur 3 axes :
 ## Programme
 Affiche du séminaire 
 
+**PRATIQUE**
+
+## Salle
+Le séminaire se déroulera salles Closon/Malinvaud au rez-de-chaussée du bâtiment.
+Le numéro de pont pour suivre les présentations en visioconférence est le XXXXX.
+
 ## Hôtels
 [Liste des hôtels et apparthôtels en accord tarifaire avec l'Insee](https://www.agora.insee.fr/files/live/sites/agora/files/shared/agora/DG/Procedures/Hotels%20et%20residhome%20INSEE%202019.pdf)
 
-## Restaurant
+## Repas
+Le midi des 6 et 7 juin, vous avez possibilité de déjeuner au restaurant administratif du White. Des tickets vous seront mis à disposition (+ modalités).
+
+Le SNDI-P vous propose un moment de convivialité autour d'un repas le jeudi soir au restaurant le Tipaza, à deux pas de la DG. Un menu couscous / vin / dessert vous est proposé pour 25€. Rendez-vous à 19h30.
+
 ![Le_Tipaza__Restaurant__Malakoff_-_Google_Chrome](uploads/57d7381da1d729c3eecc81bee9a025d5/Le_Tipaza__Restaurant__Malakoff_-_Google_Chrome.jpg)
 
