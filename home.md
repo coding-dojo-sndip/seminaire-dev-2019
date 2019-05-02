@@ -39,7 +39,7 @@ Cette année, le séminaire des développeurs portera sur 3 axes :
 ## Programme
 Affiche du séminaire 
 
-**PRATIQUE**
+## PRATIQUE
 
 ## Salle
 Le séminaire se déroulera salles Closon/Malinvaud au rez-de-chaussée du bâtiment.
