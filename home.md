@@ -43,7 +43,6 @@ Cette année, le séminaire des développeurs portera sur 3 axes :
 
 ## Programme
 Affiche du séminaire 
-+ détail
 
 ## Hôtels
 [Liste des hôtels et apparthôtels en accord tarifaire avec l'Insee](https://www.agora.insee.fr/files/live/sites/agora/files/shared/agora/DG/Procedures/Hotels%20et%20residhome%20INSEE%202019.pdf)
