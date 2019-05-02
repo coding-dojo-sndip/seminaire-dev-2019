@@ -6,10 +6,10 @@ Les 6 et 7 juin 2019 à [Montrouge](https://www.agora.insee.fr/cms/sites/agora/h
 Cette année, le séminaire des développeurs portera sur 3 axes :
 
 * La qualité du développement
-1.  l'outil PIDILA (Une checklist unique regroupant les critères des différents référentiels et bonnes pratiques du web)
+1.  L'outil PIDILA (Une checklist unique regroupant les critères des différents référentiels et bonnes pratiques du web)
 1.  PLIC Jenkins2 en production mise en œuvre du déploiement continu sur l'application Web4G
 1.  Selenium vs Cypress : la battle des outils qui testent vos IHM
-1.  "Antlr : Outillage sur les contrôles, exemple avec le langage VTL" : Présentation de l'outillage Antlr pour équiper nos applications Java/JS de services de validation, autocompletion, analyse syntaxique. Exemple à partir du langage VTL. 
+1.  Antlr : Outillage sur les contrôles, exemple avec le langage VTL : Présentation de l'outillage Antlr pour équiper nos applications Java/JS de services de validation, autocompletion, analyse syntaxique. Exemple à partir du langage VTL. 
 1.  Au secours, mon appli a des problèmes de perf 
 1.  La qualité des développements : démarche au SNDIP" ou "Comment j'évalue la qualité de mon application ?"
 1.  Homologations : - une approche par service avec notamment une volonté d'aller vers de la qualification de service (par exemple le SEF ou Keycloak).
@@ -24,7 +24,7 @@ Cette année, le séminaire des développeurs portera sur 3 axes :
 
 
 * Sujets divers en lien avec le SDSI
-1.  Nouvelles applications mobiles : une Progressive Web App dans la tablette des enquêteurs Prix
+1. Nouvelles applications mobiles : une Progressive Web App dans la tablette des enquêteurs Prix
 1. Offre de services autour des annuaires et des dispositifs d'authentification (DAAP/DOT).
 1. Une présentation du SEF
 1. Prendre le contrôle sur Git : gitflow (OL
@@ -43,6 +43,7 @@ Affiche du séminaire
 
 ## Salle
 Le séminaire se déroulera salles Closon/Malinvaud au rez-de-chaussée du bâtiment.
+
 Le numéro de pont pour suivre les présentations en visioconférence est le XXXXX.
 
 ## Hôtels
