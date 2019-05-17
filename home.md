@@ -1,5 +1,5 @@
 + Présentation sommaire du séminaire
-
+Ces 2 jours, introduits par la cheffe du Département du développement du système d'information, seront l'occasion de partages et de rencontres sur le sujet du développement informatique.
 
 ## Dates
 
