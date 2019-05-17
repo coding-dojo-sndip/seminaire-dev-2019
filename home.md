@@ -54,7 +54,7 @@ Le numéro de pont pour suivre les présentations en visioconférence est le XXX
 [Liste des hôtels et apparthôtels en accord tarifaire avec l'Insee](https://www.agora.insee.fr/files/live/sites/agora/files/shared/agora/DG/Procedures/Hotels%20et%20residhome%20INSEE%202019.pdf)
 
 ## Repas
-Le midi des 6 et 7 juin, vous avez possibilité de déjeuner au restaurant administratif du White. Des tickets vous seront mis à disposition (+ modalités).
+Le midi des 6 et 7 juin, vous avez possibilité de déjeuner au restaurant administratif du White. Pour les extérieurs, des tickets vous seront mis à disposition (+ modalités).
 
 Le SNDI-P vous propose un moment de convivialité autour d'un repas le jeudi soir au restaurant le Tipaza, à deux pas de la DG. Un menu couscous / vin / dessert vous est proposé pour 25€. Rendez-vous à 19h30.
 
