@@ -12,7 +12,7 @@ Cette année, le séminaire des développeurs portera sur 4 axes :
 1.  L'outil PIDILA (Une checklist unique regroupant les critères des différents référentiels et bonnes pratiques du web)
 1.  PLIC Jenkins2 en production mise en œuvre du déploiement continu sur l'application Web4G
 1.  Selenium vs Cypress : la battle des outils qui testent vos IHM
-1.  La qualité des développements : démarche au SNDIP" ou "Comment j'évalue la qualité de mon application ?"
+1.  Comment j'évalue la qualité de mon application ?
 1.  Homologations : - une approche par service avec notamment une volonté d'aller vers de la qualification de service (par exemple le SEF ou Keycloak).
 
 
