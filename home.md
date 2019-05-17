@@ -1,6 +1,8 @@
 + Présentation sommaire du séminaire
 
-Ces 2 jours, introduits par la cheffe du Département du développement du système d'information, seront l'occasion de partages et de rencontres sur le sujet du développement informatique.
+Ces 2 jours, introduits par la cheffe du Département du développement du système d'information, seront l'occasion de partages et de rencontres sur le sujet du développement informatique à l'Insee. 
+
+Une intervention extérieure de la DILA nous apportera un éclairage sur le respect des différents référentiels et bonnes pratiques du Web.
 
 ## Dates
 
