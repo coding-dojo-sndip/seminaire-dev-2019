@@ -2,9 +2,13 @@ Ces 2 jours, introduits par la cheffe du Département du développement du syst�
 
 Une intervention extérieure de la DILA nous apportera un éclairage sur le respect des différents référentiels et bonnes pratiques du Web.
 
+![affiche](uploads/55770b138f576b56ec83d9feb2b17abc/affiche.jpg)
+
 ## Dates
 
 Les 6 et 7 juin 2019 à [Montrouge](https://www.agora.insee.fr/cms/sites/agora/home/services/DG/white--fairway/acces-aux-batiments-white-et-fairway.html)
+
+
 
 ## Programme
 
