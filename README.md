@@ -1,25 +1,40 @@
-Ces 2 jours, introduits par la cheffe du Département du développement du système d'information, seront l'occasion de partages et de rencontres sur le sujet du développement informatique à l'Insee. 
+# Programme
 
-Une intervention extérieure de la DILA nous apportera un éclairage sur le respect des différents référentiels et bonnes pratiques du Web.
+**jeudi 6 juin 2019**	
 
-![affiche](uploads/55770b138f576b56ec83d9feb2b17abc/affiche.jpg)
+---
 
-## Dates
+09:00 &ndash; 09:15 : **Accueil**
 
-Les 6 et 7 juin 2019 à [Montrouge](https://www.agora.insee.fr/cms/sites/agora/home/services/DG/white--fairway/acces-aux-batiments-white-et-fairway.html)
+*Mylène Chaleix* (DDSI)
+
+---
+
+09:15 &ndash; 09:45 : **Ouverture**
+
+La valeur ajoutée de la DAAP et de la DSMR dans le cadre de la conception ou la modification de l'architecture d'une application et tout au long du cycle de vie.
+
+*Mélanie Martin* (DAAP) et *Ykhlef Ouabi* (DSMR)
+
+---
+
+10:15 &ndash; 10:45	: **Traitement du langage naturel illustré sur Rmés et Web4G**
+
+Reconnaître automatiquement les concepts dans des publications : vers un bout de datascience entre Rmes et Web4G ? Une branche du traitement du langage naturel consiste à reconnaître automatiquement des entités dans du texte de manière par exemple à identifier des personnes, des régions géographiques, des monnaies. Cela peut se présenter sous forme de WS. Rémy présentera les premiers résultats de son stage qui consiste à appliquer ce type de méthode sur des publications Insee, de manière à identifier notamment les concepts statistiques abordés, explicitement et si possible implicitement, ce qui pourrait à terme servir à faire automatiquement le labelling que les rédacteurs font manuellement aujourd'hui.
+
+*Rémy Zirnheld* (DIIT)
+
+---
+
+10:45 &ndash; 11:15	: **Antlr : Outillage sur les contrôles, exemple avec le langage VTL**
+
+Reconnaître automatiquement les concepts dans des publications : vers un bout de datascience entre Rmes et Web4G ? Une branche du traitement du langage naturel consiste à reconnaître automatiquement des entités dans du texte de manière par exemple à identifier des personnes, des régions géographiques, des monnaies. Cela peut se présenter sous forme de WS. Rémy présentera les premiers résultats de son stage qui consiste à appliquer ce type de méthode sur des publications Insee, de manière à identifier notamment les concepts statistiques abordés, explicitement et si possible implicitement, ce qui pourrait à terme servir à faire automatiquement le labelling que les rédacteurs font manuellement aujourd'hui.
+
+*Benoit Werquin et Nicolas Laval* (SNDIL)
+
+---
 
 
-
-## Programme
-
-**Jeudi 6 juin :**	
-
-|Horaire                   |         | Unité | Intervenant | Durée | Descriptif
-| :--------:              | :--------:    | :--------:  | :--------:  | :--------: | :--------: |
-|  9h00 - 9h15   | Accueil     |  DDSI | M.Chaleix | 15 |
-|  9h15 - 9h45   | Ouverture     |  DAAP / DSMR | Mélanie Martin / Ykhlef Ouabi | 30 | la valeur ajoutée de la DAAP et de la DSMR dans le cadre de la conception ou la modification de l'architecture d'une application et tout au long du cycle de vie. |
-| 10h15 – 10h45	| Traitement du langage naturel illustré sur RMés et web4G| DIIT| 	Rémy Zirnheld| 	30	| Reconnaître automatiquement les concepts dans des publications : vers un bout de datascience entre Rmes et Web4G ? Une branche du traitement du langage naturel consiste à reconnaître automatiquement des entités dans du texte de manière par exemple à identifier des personnes, des régions géographiques, des monnaies. Cela peut se présenter sous forme de WS. Rémy présentera les premiers résultats de son stage qui consiste à appliquer ce type de méthode sur des publications Insee, de manière à identifier notamment les concepts statistiques abordés, explicitement et si possible implicitement, ce qui pourrait à terme servir à faire automatiquement le labelling que les rédacteurs font manuellement aujourd'hui. | 
-| 10h45 – 11h15	| Antlr : Outillage sur les contrôles, exemple avec le langage VTL| 	SNDI-L| 	B. Werquin / N. Laval| 	30	| "Antlr : Outillage sur les contrôles, exemple avec le langage VTL" | 
 | 11h15 – 11h45 | 					
 | 11h45 – 12h15	| Nouvelles applications mobiles : une Progressive Web App dans la tablette des enquêteurs Prix	| SNDI-P| 	A. Mulliez / A. Montbroussous	| 30 |  ?	|
 | 12h15 - 12h45	| Eno/Lunatic : Embarquer des questionnaires JS dans une application #metadata-driven	| SNDI-L	| B. Werquin / N. Laval	|30	| Eno/Lunatic - Présentation de la bibilothèque de composant JS Lunatic, de la génération de modèle de questionnaire Lunatic avec Eno et sa réutilisation dans les projets Prisme, Generic et Queen. Ce nouveau format de sortie du générateur de questionnaire Eno (XML Lunatic) et sa bibliothèque de composants JS (Lunatic) nous permet d'inclure dans les applications JS React des questionnaires générés automatiquement à partir des métadonnées pour des usages différents (collecte enquête ménage, entreprises, prix, traitement post-collecte entreprise,ménage,...). Présentation des outils et retours d'expériences des "utilisateurs".| 
