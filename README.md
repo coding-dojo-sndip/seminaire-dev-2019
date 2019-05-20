@@ -55,7 +55,7 @@ Présentation de la bibilothèque de composant JavaScript Lunatic, de la génér
 
 ---
  
-12:45 ndash; 14:00 : **Déjeuner** :meat_on_bone: :fork_and_knife:
+12:45 &ndash; 14:00 : **Déjeuner** :meat_on_bone: :fork_and_knife:
 
 ---
 
