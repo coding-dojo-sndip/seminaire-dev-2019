@@ -26,19 +26,39 @@ Reconnaître automatiquement les concepts dans des publications : vers un bout d
 
 ---
 
-10:45 &ndash; 11:15	: **Antlr : Outillage sur les contrôles, exemple avec le langage VTL**
+10:45 &ndash; 11:15	: **Antlr**
 
-Reconnaître automatiquement les concepts dans des publications : vers un bout de datascience entre Rmes et Web4G ? Une branche du traitement du langage naturel consiste à reconnaître automatiquement des entités dans du texte de manière par exemple à identifier des personnes, des régions géographiques, des monnaies. Cela peut se présenter sous forme de WS. Rémy présentera les premiers résultats de son stage qui consiste à appliquer ce type de méthode sur des publications Insee, de manière à identifier notamment les concepts statistiques abordés, explicitement et si possible implicitement, ce qui pourrait à terme servir à faire automatiquement le labelling que les rédacteurs font manuellement aujourd'hui.
+Outillage sur les contrôles, exemple avec le langage VTL.
 
 *Benoit Werquin et Nicolas Laval* (SNDIL)
 
 ---
 
+11:15 &ndash; 11:45	: **Pause** :coffee: :doughnut:
 
-| 11h15 – 11h45 | 					
-| 11h45 – 12h15	| Nouvelles applications mobiles : une Progressive Web App dans la tablette des enquêteurs Prix	| SNDI-P| 	A. Mulliez / A. Montbroussous	| 30 |  ?	|
-| 12h15 - 12h45	| Eno/Lunatic : Embarquer des questionnaires JS dans une application #metadata-driven	| SNDI-L	| B. Werquin / N. Laval	|30	| Eno/Lunatic - Présentation de la bibilothèque de composant JS Lunatic, de la génération de modèle de questionnaire Lunatic avec Eno et sa réutilisation dans les projets Prisme, Generic et Queen. Ce nouveau format de sortie du générateur de questionnaire Eno (XML Lunatic) et sa bibliothèque de composants JS (Lunatic) nous permet d'inclure dans les applications JS React des questionnaires générés automatiquement à partir des métadonnées pour des usages différents (collecte enquête ménage, entreprises, prix, traitement post-collecte entreprise,ménage,...). Présentation des outils et retours d'expériences des "utilisateurs".| 
-| 12h45 – 14h00	|  Repas	| 			
+---
+
+11:45 &ndash; 12:15	: **Nouvelles applications mobiles**
+
+Une *Progressive Web App* dans la tablette des enquêteurs Prix.
+
+*Aude Mulliez et Adrien Montbroussous* (SNDIP)
+
+
+---
+
+12:15 &ndash; 12:45	: **Eno / Lunatic : Embarquer des questionnaires JavaScript dans une application *metadata-driven***
+
+Présentation de la bibilothèque de composant JavaScript Lunatic, de la génération de modèle de questionnaire Lunatic avec Eno et sa réutilisation dans les projets Prisme, Generic et Queen. Ce nouveau format de sortie du générateur de questionnaire Eno (XML Lunatic) et sa bibliothèque de composants JS (Lunatic) nous permet d'inclure dans les applications JS React des questionnaires générés automatiquement à partir des métadonnées pour des usages différents : collecte enquête ménage, entreprises, prix, traitement post-collecte entreprise, ménage, &hellip; Présentation des outils et retours d'expériences des « utilisateurs ».
+
+*Benoit Werquin et Nicolas Laval* (SNDIL)
+
+---
+ 
+12:45 ndash; 14:00 : **Déjeuner** :meat_on_bone: :fork_and_knife:
+
+---
+
 | 14h00 – 14h30	| Prendre le contrôle sur Git : Gitflow| 	SNDI-P	| O. Levitt	| 30| 	
 | 14h30 – 15h00	| Quelqu’un y comprend quelque chose aux annuaires ???	| DAAP / SNDI-P| 	Renaud Genevois / Mélanie Martin / Cédric Couralet	| 30	| Présenter l'offre de services autour des annuaires et des dispositifs d'authentification : organisation et fonctionnement général de ces dispositifs, les différents cas d'usage, les différents modes de gestion, les web services disponibles, etc. | 
 | 15h00 – 15h30	| Possibilités de Keycloak via son interface d’administration	| SNDI-P	| Clément Dufaure / Cédric Couralet | 	30	|  de Keycloak : A quoi ressemble l'interface d'administration de keycloak et que peut on faire avec ? Il s'agit d'explorer les possiblités offertes par l'utilisation de keycloak à travers son interface d'administration. | 
