@@ -44,12 +44,11 @@ Une *Progressive Web App* dans la tablette des enquêteurs Prix.
 
 *Aude Mulliez et Adrien Montbroussous* (SNDIP)
 
-
 ---
 
 12:15 &ndash; 12:45	: **Eno / Lunatic : Embarquer des questionnaires JavaScript dans une application *metadata-driven***
 
-Présentation de la bibilothèque de composant JavaScript Lunatic, de la génération de modèle de questionnaire Lunatic avec Eno et sa réutilisation dans les projets Prisme, Generic et Queen. Ce nouveau format de sortie du générateur de questionnaire Eno (XML Lunatic) et sa bibliothèque de composants JS (Lunatic) nous permet d'inclure dans les applications JS React des questionnaires générés automatiquement à partir des métadonnées pour des usages différents : collecte enquête ménage, entreprises, prix, traitement post-collecte entreprise, ménage, &hellip; Présentation des outils et retours d'expériences des « utilisateurs ».
+Présentation de la bibilothèque de composant JavaScript Lunatic, de la génération de modèle de questionnaire Lunatic avec Eno et sa réutilisation dans les projets Prisme, Generic et Queen. Ce nouveau format de sortie du générateur de questionnaire Eno (XML Lunatic) et sa bibliothèque de composants JS (Lunatic) nous permet d'inclure dans les applications JS React des questionnaires générés automatiquement à partir des métadonnées pour des usages différents : collecte enquête ménage, entreprises, prix, traitement post-collecte entreprise, ménage&hellip; Présentation des outils et retours d'expériences des « utilisateurs ».
 
 *Benoit Werquin et Nicolas Laval* (SNDIL)
 
@@ -59,33 +58,78 @@ Présentation de la bibilothèque de composant JavaScript Lunatic, de la génér
 
 ---
 
-| 14h00 – 14h30	| Prendre le contrôle sur Git : Gitflow| 	SNDI-P	| O. Levitt	| 30| 	
-| 14h30 – 15h00	| Quelqu’un y comprend quelque chose aux annuaires ???	| DAAP / SNDI-P| 	Renaud Genevois / Mélanie Martin / Cédric Couralet	| 30	| Présenter l'offre de services autour des annuaires et des dispositifs d'authentification : organisation et fonctionnement général de ces dispositifs, les différents cas d'usage, les différents modes de gestion, les web services disponibles, etc. | 
-| 15h00 – 15h30	| Possibilités de Keycloak via son interface d’administration	| SNDI-P	| Clément Dufaure / Cédric Couralet | 	30	|  de Keycloak : A quoi ressemble l'interface d'administration de keycloak et que peut on faire avec ? Il s'agit d'explorer les possiblités offertes par l'utilisation de keycloak à travers son interface d'administration. | 
-| 15h30 – 16h00 | 	Pause| 				
-| 16h00 – 16h30	| Moteur de recherche dans Jahia	| GCOC	| P. Assael	| 30| 	"Moteur de recherche dans JAHIA  : Problématique d'un moteur de recherche intranet (généralités, principes de fonctionnement …) ; fonctionnement du moteur jahia (soler, zones d'indexation) ; Principes d'amélioration (moteur avancé, boost de mots clefs)"| 
-| 16h30 – 17h00| 	Intégration de ARC dans l’ESSNet   I3S| 	SNDI-O| 	R. Pépin| 	30	| "Intégration de ARC dans l'ESSNet I3S C'est quoi un ESSNet?  Quelle est la problématique de l'ESSNet I3S?  Comment l'application ARC a été présentée en respectant les standards européens?  Quel a été l'investissement documentaire? Les actions en cours et à venir, en particulier la collaboration avec ISTAT."| 
-| 17h00 – 17h30	| Python et le framework FLASK	| SNDI-O| 	J. Cochennec	| | 	"Le web en Python : Les bonnes pratiques pour débuter en Python. Présentation du 2ème framework le plus utilisé au monde, Flask. Simplifier et minimiser le code et la maintenance en utilisant les greffons de Flask. Faire du web sans connaissance préalable en utilisant le framework FlaskAppBuilder"
-| 17h30 | fin de la première journée					
-					
-**Vendredi 7 juin :**				
+14:00 &ndash; 14:30 : **Prendre le contrôle sur Git : Gitflow**
+
+*Olivier Levitt* (SNDIP)
+
+---
+
+14:30 &ndash; 15:00 : **Quelqu’un y comprend quelque chose aux annuaires ???**
+
+Présenter l'offre de services autour des annuaires et des dispositifs d'authentification : organisation et fonctionnement général de ces dispositifs, les différents cas d'usage, les différents modes de gestion, les web services disponibles&hellip;
+
+*Renaud Genevois, Mélanie Martin* (DAAP) et *Cédric Couralet* (SNDIP)
+
+---
+
+15:00 &ndash; 15:30 : **Possibilités de Keycloak via son interface d’administration**
+
+À quoi ressemble l'interface d'administration de keycloak et que peut on faire avec ? Il s'agit d'explorer les possiblités offertes par l'utilisation de keycloak à travers son interface d'administration.
+
+*Clément Dufaure et Cédric Couralet* (SNDIP)
+
+---
+
+15:30 &ndash; 16:00	: **Pause** :coffee: :doughnut:
+
+---
+
+16:00 &ndash; 16:30 : **Moteur de recherche dans Jahia**
+
+Moteur de recherche dans JAHIA  : Problématique d'un moteur de recherche intranet (généralités, principes de fonctionnement&hellip) ; fonctionnement du moteur jahia (SolR, zones d'indexation) ; principes d'amélioration (moteur avancé, *boost* de mots clefs)
+
+*Philippe Assael* (Pôle GCOC)
+
+---
+
+16:30 &ndash; 17:00 : **Intégration de ARC dans l’ESSNet I3S**
+
+Intégration de ARC dans l'ESSNet I3S C'est quoi un ESSNet?  Quelle est la problématique de l'ESSNet I3S?  Comment l'application ARC a été présentée en respectant les standards européens?  Quel a été l'investissement documentaire? Les actions en cours et à venir, en particulier la collaboration avec ISTAT.
+
+*Rémi Pépin* (SNDIO)
+
+---
+
+17:00 &ndash; 17:30 : **Python et le framework FLASK**
+
+*Julien Cochennec* SNDIO
+
+Le web en Python : Les bonnes pratiques pour débuter en Python. Présentation du 2<sup>e</sup> framework le plus utilisé au monde, Flask. Simplifier et minimiser le code et la maintenance en utilisant les greffons de Flask. Faire du web sans connaissance préalable en utilisant le framework FlaskAppBuilder
+
+---
+
+19:30 : **Dîner** :wine_glass: :curry:
+
+---
+
+**vendredi 7 juin**				
 
 |Horaire                   |         | Unité | Intervenant | Durée | Descriptif
 | :--------:              | :--------:    | :--------:  | :--------:  | :--------: | :--------: |
  | 8h45 - 9h00  | 	Accueil 				
- | 9h00 – 10h | 	Outil PIDILA, checklist pour les sites web	 | DINSIC / DILA	 | à préciser | 	60	 | l'outil PIDILA (Une checklist unique regroupant les critères des différents référentiels et bonnes pratiques du web : Référentiel général d'accessibilité pour les administrations (RGAA), critères du Cerfa numérique, Charte internet de l'État, bonnes pratiques Opquast, écoconception… + bibliothèque de composants) | 
- | 10h00 – 10h30 | 	Comment j’évalue la qualité de mon application ? | 	SNDI-P | 	R. Warnan | 	 | 	"La qualité des développements : démarche au SNDIP" ou "Comment j'évalue la qualité de mon application ?" Comment évaluer la qualité d'une application à travers une grille de critères ? La démarche, l'intérêt, des exemples… | 
- | 10h30 – 11h00	 |  Pause	 | 			
- | 11h00 – 11h30	Sécurisation d’un processus de production : cas de la supervision du LEI | 	CEI / SNDI-N | 	M Moret / JC Aubry	 | 30 | 	Sécurisation d'un processus de production (LEI) ; présentation à deux voix de l'offre de service de supervision. | 
- | 11h30 – 12h00 | 	Ma première image docker | 	SNDI-P | 	O. Levitt | 	30	 | 
+ 9:00 &ndash; 10: |  :u**til PIDILA, checklist pour les sites web	 | DINSIC / DILA	 | à préciser | 	60	 | l'outil PIDILA (Une checklist unique regroupant les critères des différents référentiels et bonnes pratiques du web : Référentiel général d'accessibilité pour les administrations (RGAA), critères du Cerfa numérique, Charte internet de l'État, bonnes pratiques Opquast, écoconception… + bibliothèque de composants) | 
+ 10:00 &ndash; 10:30 : **	Comment j’évalue la qualité de mon application ? | 	SNDI-P | 	R. Warnan | 	 | 	"La qualité des développements : démarche au SNDIP" ou "Comment j'évalue la qualité de mon application ?" Comment évaluer la qualité d'une application à travers une grille de critères ? La démarche, l'intérêt, des exemples… | 
+ 10:30 &ndash; 11:00 :|**  Pause	 | 			
+ 11:00 &ndash; 11:30 :é**curisation d’un processus de production : cas de la supervision du LEI | 	CEI / SNDI-N | 	M Moret / JC Aubry	 | 30 | 	Sécurisation d'un processus de production (LEI) ; présentation à deux voix de l'offre de service de supervision. | 
+ 11:30 &ndash; 12:00 : **	Ma première image docker | 	SNDI-P | 	O. Levitt | 	30	 | 
  | 12h00 - 12h30 | 	Selenium vs Cypress : la battle des outils qui testent vos IHM	 | SNDI-P : RP vs Prisme | 	P. Michaud-O. Levitt / J. Lemaître -J.Seng | 	30	 | 
- | 12h30 – 13h45 | 	 Repas	 | 			
- | 13h45 – 14h15 | 	Une Pic qui commence, un peu, à piquer : build ton pipeline et push en prod. | 	DAAP / SNDI- P | 	M. Beauté / I. Tzortzis	 | 30 | 	une présentation DAAP/Web4G qui présente ce qui a été fait pour mettre en œuvre le déploiement continu sur l'application Web4G, les bonnes pratiques, les difficultés rencontrés... L'occasion de préciser l'offre actuelle ou à venir en matière d'intégration, de livraison et de déploiement en continu  | 
- | 14h15 – 15h15 | 	Retour d'expérience d'incubation sur la dockerisation et la livraison en continu : pourquoi elle va changer votre vie | 	SNDI-O / SNDI-P | 	R. Pépin / O. Levitt	 | 30 | 	"Vous avez envie d'essayer de faire du déploiement continu de votre application sur la plateforme innovation mais cela vous fait peur ? Et bien il n'y a aucune raison ! C'est ce qu’a compris Rémi lors d'une incubation en collaboration avec l'Unissi. Au programme, retour d'expérience sur cette incubation, son déroulement et les grandes étapes pour dockeriser votre application."
- | 15h15 – 15h45 | 	Les pires conseils du monde sur la migration à postgres	 | SNDI-P	 | J. Lhotellier	 | 30	 | 
- | 15h45 – 16h00  | 	Pause	 | 			
- | 16h00 – 16h30 | 	Open source : pourquoi ouvrir nos développements et comment ?  | 	DIIT | 	"J. Fourcot /  | M. Treppoz-Salomon" | 	30 | 	Nous allons rassembler les éléments de cadrage institutionnels qui nous amènent à ouvrir le code source des développements Insee, ce qu'il est nécessaire de faire pour ouvrir du code (choix de licence, éléments utiles à apporter, choix de la langue), comment on fait en pratique (qui on contacte, qui valide), comment aller plus loin que ce qu'on est "obligé" de faire (mettre à disposition des artéfacts, définir une politique de contribution pour les utilisateurs tiers et du coup parler DCO et CLA). On illustrera par des cas concrets. 
- | 16h30 – 17h00 | 	 Homologation : une approche par service  | 	DSMR | 	Cécile Chemin / Jean-Luc Flotté | 	30	 |  avec notamment une volonté d'aller vers de la qualification de service (par exemple le SEF ou Keycloak). Cette qualification irait avec un contexte d'utilisation. L'idée est de simplifier les démarches pour les projets qui utilise des briques qualifiées. à noter qu'on veut aller dans le même sens lorsque qu'il y a partage d'architecture (ex Colman et Coltrane)  | 
+ 12:30 &ndash; 13:45 : **	 Repas	 | 			
+ 13:45 &ndash; 14:15 : **	Une Pic qui commence, un peu, à piquer : build ton pipeline et push en prod. | 	DAAP / SNDI- P | 	M. Beauté / I. Tzortzis	 | 30 | 	une présentation DAAP/Web4G qui présente ce qui a été fait pour mettre en œuvre le déploiement continu sur l'application Web4G, les bonnes pratiques, les difficultés rencontrés... L'occasion de préciser l'offre actuelle ou à venir en matière d'intégration, de livraison et de déploiement en continu  | 
+ 14:15 &ndash; 15:15 : **	Retour d'expérience d'incubation sur la dockerisation et la livraison en continu : pourquoi elle va changer votre vie | 	SNDI-O / SNDI-P | 	R. Pépin / O. Levitt	 | 30 | 	"Vous avez envie d'essayer de faire du déploiement continu de votre application sur la plateforme innovation mais cela vous fait peur ? Et bien il n'y a aucune raison ! C'est ce qu’a compris Rémi lors d'une incubation en collaboration avec l'Unissi. Au programme, retour d'expérience sur cette incubation, son déroulement et les grandes étapes pour dockeriser votre application."
+ 15:15 &ndash; 15:45 : **	Les pires conseils du monde sur la migration à postgres	 | SNDI-P	 | J. Lhotellier	 | 30	 | 
+ 15:45 &ndash; 16:00 :|** 	Pause	 | 			
+ 16:00 &ndash; 16:30 : **	Open source : pourquoi ouvrir nos développements et comment ?  | 	DIIT | 	"J. Fourcot /  | M. Treppoz-Salomon" | 	30 | 	Nous allons rassembler les éléments de cadrage institutionnels qui nous amènent à ouvrir le code source des développements Insee, ce qu'il est nécessaire de faire pour ouvrir du code (choix de licence, éléments utiles à apporter, choix de la langue), comment on fait en pratique (qui on contacte, qui valide), comment aller plus loin que ce qu'on est "obligé" de faire (mettre à disposition des artéfacts, définir une politique de contribution pour les utilisateurs tiers et du coup parler DCO et CLA). On illustrera par des cas concrets. 
+ 16:30 &ndash; 17:00 : **	 Homologation : une approche par service  | 	DSMR | 	Cécile Chemin / Jean-Luc Flotté | 	30	 |  avec notamment une volonté d'aller vers de la qualification de service (par exemple le SEF ou Keycloak). Cette qualification irait avec un contexte d'utilisation. L'idée est de simplifier les démarches pour les projets qui utilise des briques qualifiées. à noter qu'on veut aller dans le même sens lorsque qu'il y a partage d'architecture (ex Colman et Coltrane)  | 
  | 17h-17h15 | 	Clôture	 | DSI | 	O. Lefebvre | 	15 | 	
 
 ## PRATIQUE
