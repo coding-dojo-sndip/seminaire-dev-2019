@@ -104,7 +104,7 @@ Intégration de ARC dans l'ESSNet I3S C'est quoi un ESSNet?  Quelle est la probl
 
 17:00 &ndash; 17:30 : **Python et le framework FLASK**
 
-*Julien Cochennec* SNDIO
+*Julien Cochennec* (SNDIO)
 
 Le web en Python : Les bonnes pratiques pour débuter en Python. Présentation du 2<sup>e</sup> framework le plus utilisé au monde, Flask. Simplifier et minimiser le code et la maintenance en utilisant les greffons de Flask. Faire du web sans connaissance préalable en utilisant le framework FlaskAppBuilder
 
@@ -114,7 +114,7 @@ Le web en Python : Les bonnes pratiques pour débuter en Python. Présentation d
 
 ---
 
-:beer: :cocktail: :tropical_drink: :wine_glass: :beers: :beer: :cocktail: :tropical_drink: :wine_glass: :beers: :beer: :cocktail: :tropical_drink: :wine_glass: :beers:
+:beer: :cocktail: :tropical_drink: :wine_glass: :beers:
 
 ---
 
@@ -128,7 +128,7 @@ Le web en Python : Les bonnes pratiques pour débuter en Python. Présentation d
 
 L'outil PIDILA (Une checklist unique regroupant les critères des différents référentiels et bonnes pratiques du web : Référentiel général d'accessibilité pour les administrations (RGAA), critères du Cerfa numérique, Charte internet de l'État, bonnes pratiques Opquast, écoconception&hellip; + bibliothèque de composants)
 
-DINSIC / DILA
+(DINSIC) (DILA)
 
 ---
 
@@ -160,7 +160,7 @@ Présentation à deux voix de l'offre de service de supervision.
 
 12:00  &ndash; 12:30 : **Selenium *vs* Cypress : la *battle* des outils qui testent vos IHM**
 
-*Pierre Michaud et Olivier Levitt** (SNDIP, RP) vs *Jacques Lemaître et Julien Seng* (SNDIP, Prisme)
+*Pierre Michaud et Olivier Levitt* (SNDIP, RP) vs *Jacques Lemaître et Julien Seng* (SNDIP, Prisme)
 
 ---
 
@@ -202,7 +202,7 @@ Nous allons rassembler les éléments de cadrage institutionnels qui nous amène
 
 --- 
 
-16:30 &ndash; 17:00 : **Homologation : une approche par service**  | 	DSMR
+16:30 &ndash; 17:00 : **Homologation : une approche par service**
 
 avec notamment une volonté d'aller vers de la qualification de service (par exemple le SEF ou Keycloak). Cette qualification irait avec un contexte d'utilisation. L'idée est de simplifier les démarches pour les projets qui utilise des briques qualifiées. à noter qu'on veut aller dans le même sens lorsque qu'il y a partage d'architecture (ex Colman et Coltrane)
 
@@ -211,21 +211,3 @@ avec notamment une volonté d'aller vers de la qualification de service (par exe
 17:00 &ndash; 17:15 **Clôture**
 
 *Olivier Lefebvre* (DSI)
-
-## PRATIQUE
-
-## Salle
-Le séminaire se déroulera salles Closon/Malinvaud au rez-de-chaussée du bâtiment.
-
-Le numéro de pont pour suivre les présentations en visioconférence est le XXXXX.
-
-## Hôtels
-[Liste des hôtels et apparthôtels en accord tarifaire avec l'Insee](https://www.agora.insee.fr/files/live/sites/agora/files/shared/agora/DG/Procedures/Hotels%20et%20residhome%20INSEE%202019.pdf)
-
-## Repas
-Le midi des 6 et 7 juin, vous avez possibilité de déjeuner au restaurant administratif du White. Pour les extérieurs, des tickets vous seront mis à disposition (+ modalités).
-
-Le SNDI-P vous propose un moment de convivialité autour d'un repas le jeudi soir au restaurant le Tipaza, à deux pas de la DG. Un menu couscous / vin / dessert vous est proposé pour 25€. Rendez-vous à 19h30.
-
-![Le_Tipaza__Restaurant__Malakoff_-_Google_Chrome](uploads/57d7381da1d729c3eecc81bee9a025d5/Le_Tipaza__Restaurant__Malakoff_-_Google_Chrome.jpg)
-
