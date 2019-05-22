@@ -28,9 +28,9 @@ Reconnaître automatiquement les concepts dans des publications : vers un bout d
 
 ---
 
-10:45 &ndash; 11:15	: **Antlr**
+10:45 &ndash; 11:15	: **Antlr : outillage sur les contrôles, exemple avec le langage VTL.**
 
-Outillage sur les contrôles, exemple avec le langage VTL.
+Présentation de l’outillage Antlr pour équiper nos applications Java et JS de services de validation, d’autocompletion, d’analyse syntaxique à partir d’une grammaire formelle. Exemple à partir du langage VTL.
 
 *Benoit Werquin et Nicolas Laval* (SNDIL)
 
@@ -124,7 +124,7 @@ Le web en Python : Les bonnes pratiques pour débuter en Python. Présentation d
 
 ---
 
-09:00 &ndash; 10:00 : Outil PIDILA, checklist pour les sites web
+09:00 &ndash; 10:00 : **Outil PIDILA, checklist pour les sites web**
 
 L’outil PIDILA (Une checklist unique regroupant les critères des différents référentiels et bonnes pratiques du web : Référentiel général d’accessibilité pour les administrations (RGAA), critères du Cerfa numérique, Charte internet de l’État, bonnes pratiques Opquast, écoconception&hellip; + bibliothèque de composants)
 
@@ -144,9 +144,9 @@ Comment évaluer la qualité d’une application à travers une grille de critè
 
 ---
 
-11:00 &ndash; 11:30 : **Sécurisation d’un processus de production : cas de la supervision du LEI**
+11:00 &ndash; 11:30 : **Comment connaître l’état de santé de votre application en temps réel**
 
-Présentation à deux voix de l’offre de service de supervision. 
+Retour d’expérience autour de la mise en ligne d’un tableau de bord sur LEI : présentation du besoin, de la démarche et du résultat mis à disposition de l’équipe LEI ; bilan et perspective d’une généralisation via une offre de service ouverte à d’autres applications.
 
 *Marie Moret*  (SNDIN) et *Jean-Charles Aubry* (CEI)
 
