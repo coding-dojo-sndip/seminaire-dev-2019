@@ -128,7 +128,7 @@ Le web en Python : Les bonnes pratiques pour débuter en Python. Présentation d
 
 L’outil PIDILA (Une checklist unique regroupant les critères des différents référentiels et bonnes pratiques du web : Référentiel général d’accessibilité pour les administrations (RGAA), critères du Cerfa numérique, Charte internet de l’État, bonnes pratiques Opquast, écoconception&hellip; + bibliothèque de composants)
 
-(DINSIC) (DILA)
+A. Cavalier, B. Dequick, B. Roullier et *Isabelle Ravet* (DAC)
 
 ---
 
