@@ -110,11 +110,18 @@ Le web en Python : Les bonnes pratiques pour débuter en Python. Présentation d
 
 ---
 
-19:30 : **Dîner** :wine_glass: :curry:
+18:00 : **Jeux de société** :game_die: :black_joker: :dart:
+
+[Perudo](https://fr.wikipedia.org/wiki/Perudo),
+[Bellz](https://www.trictrac.net/jeu-de-societe/bellz-1),
+[Oui, Seigneur des ténèbres](https://www.trictrac.net/jeu-de-societe/oui-seigneur-des-tenebres-0),
+[Mystères](https://www.trictrac.net/jeu-de-societe/mysteres),
+[Cardline Marvel](https://www.trictrac.net/jeu-de-societe/cardline-marvel),
+[Timebomb](https://www.iello.fr/fr/fiche/time-bomb).
 
 ---
 
-:beer: :cocktail: :tropical_drink: :wine_glass: :beers:
+19:30 : **Dîner** :wine_glass: :curry:
 
 ---
 
